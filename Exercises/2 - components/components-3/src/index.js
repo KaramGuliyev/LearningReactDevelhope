@@ -1,7 +1,8 @@
 import ReactDOM from "react-dom/client";
-import { Hello } from "./App";
+import { RenderApp } from "./App";
 
-// Write a Hello class components that renders the "Hello, World!" message within an h1 tag.
+// Write a class component called App that renders the Hello component within a div tag.
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Hello />);
+root.render(<RenderApp />);
