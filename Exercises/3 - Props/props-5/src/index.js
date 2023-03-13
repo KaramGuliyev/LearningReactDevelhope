@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Welcome } from '../../props-4/src/App';
+import { Welcome } from '../../props-5/src/App';
 
 function Adrian(name) {
     return (
